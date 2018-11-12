@@ -13,37 +13,44 @@
 		{
 			"screen_name": "lecourrier",
 			"name": "Le Courrier",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Genève"
 		},
 		{
 			"screen_name": "LaCoteJournal",
 			"name": "La Côte",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"city": "Nyon"
 		},
 		{
 			"screen_name": "arcinfo",
 			"name": "ArcInfo.ch",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Neuchâtel"
 		},
 		{
 			"screen_name": "ArcinfoLive",
 			"name": "ArcinfoLive",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Neuchâtel"
 		},
 		{
 			"screen_name": "arcinfoFestival",
 			"name": "Arcinfo Festival",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "arcinfoFestival"
 		},
 		{
 			"screen_name": "JournalduJura",
 			"name": "Le Journal du Jura",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"city": "Bienne"
 		},
 		{
 			"screen_name": "laliberte",
 			"name": "La Liberté",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Fribourg"
 		},
 		{
 			"screen_name": "Lematinch",
@@ -58,12 +65,14 @@
 		{
 			"screen_name": "lenouvelliste",
 			"name": "Le Nouvelliste",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Valais"
 		},
 		{
 			"screen_name": "LNFlive",
 			"name": "LeNouvellisteLive",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Valais"
 		},
 		{
 			"screen_name": "letemps",
@@ -88,7 +97,8 @@
 		{
 			"screen_name": "tdgch",
 			"name": "Tribune de Genève",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Genève"
 		},
 		{
 			"screen_name": "20MinutesOnline",
@@ -103,7 +113,8 @@
 		{
 			"screen_name": "GOOUTMAG",
 			"name": "GO OUT! MAG",
-			"langs": ["FR"]
+			"langs": ["FR"],
+			"region": "Genève"
 		},
 		{
 			"screen_name": "bilanmagazine",
@@ -113,32 +124,38 @@
 		{
 			"screen_name": "AargauerZeitung",
 			"name": "AargauerZeitung",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Aargau"
 		},
 		{
 			"screen_name": "AppenzellerZeit",
 			"name": "Appenzeller Zeitung",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Appenzell"
 		},
 		{
 			"screen_name": "bazonline",
 			"name": "Basler Zeitung",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Basel"
 		},
 		{
 			"screen_name": "BernerZeitung",
 			"name": "berznerzeitung.ch",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Bern"
 		},
 		{
 			"screen_name": "BZ_Kultur",
 			"name": "BernerZeitung Kultur",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Bern"
 		},
 		{
 			"screen_name": "bielertagblatt",
 			"name": "Bieler Tagblatt",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"city": "Biel"
 		},
 		{
 			"screen_name": "blickch",
@@ -148,62 +165,74 @@
 		{
 			"screen_name": "bote_online",
 			"name": "Bote des Urschweiz",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Schwyz"
 		},
 		{
 			"screen_name": "derbund",
 			"name": "Der Bund",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Bern"
 		},
 		{
 			"screen_name": "Friburgera",
 			"name": "Freiburger Nachrichten",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Fribourg"
 		},
 		{
 			"screen_name": "azGrenchen",
 			"name": "azGrenchnerTagblatt",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Solothurn"
 		},
 		{
 			"screen_name": "landbote",
 			"name": "Landbote.ch",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"city": "Winterthur"
 		},
 		{
 			"screen_name": "LuzernerZeitung",
 			"name": "Luzerner Zeitung",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Luzern"
 		},
 		{
 			"screen_name": "News_Luzern",
 			"name": "luzernerzeitung.ch",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Luzern"
 		},
 		{
 			"screen_name": "News_ZentralCH",
 			"name": "luzernerzeitung.ch",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Luzern"
 		},
 		{
 			"screen_name": "NZZ",
 			"name": "Neue Zürcher Zeitung",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Zürich"
 		},
 		{
 			"screen_name": "NZZaS",
 			"name": "NZZ am Sonntag",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Zürich"
 		},
 		{
 			"screen_name": "SOBildredaktion",
 			"name": "Südostschweiz Bild",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Graubünden"
 		},
 		{
 			"screen_name": "news_aus_der_so",
 			"name": "Südostschweiz News",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"region": "Graubünden"
 		},
 		{
 			"screen_name": "tagesanzeiger",
@@ -213,7 +242,8 @@
 		{
 			"screen_name": "zt_info",
 			"name": "Zofinger Tagblatt",
-			"langs": ["DE"]
+			"langs": ["DE"],
+			"city": "Zofingen"
 		},
 		{
 			"screen_name": "20min",
@@ -243,27 +273,32 @@
 		{
 			"screen_name": "CdT_Online",
 			"name": "Corriere del Ticino",
-			"langs": ["IT"]
+			"langs": ["IT"],
+			"region": "Ticino"
 		},
 		{
 			"screen_name": "giorndelpopolo",
 			"name": "Giornale del Popolo",
-			"langs": ["IT"]
+			"langs": ["IT"],
+			"region": "Ticino"
 		},
 		{
 			"screen_name": "laregione",
 			"name": "laRegione",
-			"langs": ["IT"]
+			"langs": ["IT"],
+			"region": "Ticino"
 		},
 		{
 			"screen_name": "laR_Lugano",
 			"name": "laRegione Lugano",
-			"langs": ["IT"]
+			"langs": ["IT"],
+			"region": "Ticino"
 		},
 		{
 			"screen_name": "LaNotizia",
 			"name": "La Notizia",
-			"langs": ["IT"]
+			"langs": ["IT"],
+			"region": "Ticino"
 		}
 	]
 }

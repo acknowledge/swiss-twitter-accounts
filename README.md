@@ -10,18 +10,20 @@ Lists available:
 - televisions
 
 Format:
-    {
-    	"accounts": [
-    		{
-    			"screen_name": "jackycasas_",
-    			"name": "Jacky Casas",
-    			"langs": ["EN", "FR"]
-    		},
-    		{
-    			...
-    		}
-    	]
-    }
+```
+{
+	"accounts": [
+		{
+			"screen_name": "jackycasas_",
+			"name": "Jacky Casas",
+			"langs": ["EN", "FR"]
+		},
+		{
+			...
+		}
+	]
+}
+```
 
 The following fields can be added to the structure:
 - "city": if the account is linked to only one city (eg. "Lausanne", "Bern", "Thun", "Lugano")
@@ -266,12 +268,6 @@ List of accounts not yet added
 
 ### Televisions
 
-- SRF1
-- SRF2
-- SRF Info
-- 3sat
-- RTS Un
-- RTS Deux
 - TV5MONDE
 - RSI La 1
 - RSI La 2
@@ -299,16 +295,6 @@ List of accounts not yet added
 
 ### Radios
 
-- Radio SRF 1
-- Radio SRF 2 Kultur
-- Radio SRF 3
-- Radio SRF 4 News
-- Radio SRF Virus
-- Radio SRF Musikwelle
-- La Première
-- Espace 2
-- Couleur 3
-- Option Musique
 - Rete Uno
 - Rete Due
 - Rete Tre
