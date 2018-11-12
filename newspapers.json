@@ -1,0 +1,269 @@
+{
+	"accounts": [
+		{
+			"screen_name": "24heuresch",
+			"name": "24heures",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Ageficom",
+			"name": "AGEFI Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "lecourrier",
+			"name": "Le Courrier",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "LaCoteJournal",
+			"name": "La Côte",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "arcinfo",
+			"name": "ArcInfo.ch",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "ArcinfoLive",
+			"name": "ArcinfoLive",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "arcinfoFestival",
+			"name": "Arcinfo Festival",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "JournalduJura",
+			"name": "Le Journal du Jura",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "laliberte",
+			"name": "La Liberté",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Lematinch",
+			"name": "Le Matin",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "LeMatinch_Sport",
+			"name": "LeMatin.ch - Sports",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "lenouvelliste",
+			"name": "Le Nouvelliste",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "LNFlive",
+			"name": "LeNouvellisteLive",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "letemps",
+			"name": "Le Temps",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "letemps_rss",
+			"name": "Le Temps - officieux",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "LeTempsSuisse",
+			"name": "Le Temps - politique",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Lillustre",
+			"name": "L'illustré",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "tdgch",
+			"name": "Tribune de Genève",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "20MinutesOnline",
+			"name": "20 minutes",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "20min_Music",
+			"name": "20 minutes Music",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "GOOUTMAG",
+			"name": "GO OUT! MAG",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "bilanmagazine",
+			"name": "BILAN",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "AargauerZeitung",
+			"name": "AargauerZeitung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "AppenzellerZeit",
+			"name": "Appenzeller Zeitung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "bazonline",
+			"name": "Basler Zeitung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BernerZeitung",
+			"name": "berznerzeitung.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BZ_Kultur",
+			"name": "BernerZeitung Kultur",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "bielertagblatt",
+			"name": "Bieler Tagblatt",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "blickch",
+			"name": "Blick",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "bote_online",
+			"name": "Bote des Urschweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "derbund",
+			"name": "Der Bund",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Friburgera",
+			"name": "Freiburger Nachrichten",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "azGrenchen",
+			"name": "azGrenchnerTagblatt",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "landbote",
+			"name": "Landbote.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "LuzernerZeitung",
+			"name": "Luzerner Zeitung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "News_Luzern",
+			"name": "luzernerzeitung.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "News_ZentralCH",
+			"name": "luzernerzeitung.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "NZZ",
+			"name": "Neue Zürcher Zeitung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "NZZaS",
+			"name": "NZZ am Sonntag",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "SOBildredaktion",
+			"name": "Südostschweiz Bild",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "news_aus_der_so",
+			"name": "Südostschweiz News",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "tagesanzeiger",
+			"name": "Tages-Anzeiger",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "zt_info",
+			"name": "Zofinger Tagblatt",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "20min",
+			"name": "20 Minuten",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "20min_digital",
+			"name": "20 Minuten Digital",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "20min_sportnews",
+			"name": "20 Minuten Sport",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "20Min_Win",
+			"name": "wettbewerbe.20min.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "blickamabend",
+			"name": "Blick am Abend",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "CdT_Online",
+			"name": "Corriere del Ticino",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "giorndelpopolo",
+			"name": "Giornale del Popolo",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "laregione",
+			"name": "laRegione",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "laR_Lugano",
+			"name": "laRegione Lugano",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "LaNotizia",
+			"name": "La Notizia",
+			"langs": ["IT"]
+		}
+	]
+}
