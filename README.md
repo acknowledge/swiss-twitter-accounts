@@ -8,6 +8,9 @@ Lists available:
 - politicians
 - radios
 - televisions
+- sports-teams
+- political-parties
+- personalities
 
 Format:
 ```
@@ -31,7 +34,6 @@ The following fields can be added to the structure:
 
 Ideas for new lists:
 - cities
-- sport clubs
 - poilitical parties
 - events
 - ...
@@ -45,6 +47,14 @@ Please verify that your JSON files are valid before pushing. You can use jsonlin
 
 List of accounts not yet added
 ------------------------------
+
+### Political parties
+
+- all the glp, grueneliberale
+- all the cvp pdc jcvp jdc
+- all the svp udc
+- all the plr fdp jungfreisinnige jlrs
+- all the bdp pbd
 
 ### Newspapers
 
@@ -285,7 +295,6 @@ List of accounts not yet added
 - Canal 9
 - Canal Alpha NE
 - Canal Alpha JU
-- Léman Bleu
 - NyonRégion Télévision (NR-TV)
 - La Télé
 - TeleBielingue
@@ -329,7 +338,6 @@ List of accounts not yet added
 - Radio Pilatus
 - Radio RaBe
 - Radio RaSa
-- Radio Rottu Oberwallis
 - Radio Stadtfilter
 - Radio Sunshine
 - Radio Top

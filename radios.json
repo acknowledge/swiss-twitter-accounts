@@ -24,6 +24,18 @@
 			"screen_name": "srfkonsum",
 			"name": "SRF Konsum",
 			"langs": ["DE"]
+		},
+		{
+			"screen_name": "radio_rottu",
+			"name": "rro - radio rottu",
+			"langs": ["DE"],
+			"region": "Valais"
+		},
+		{
+			"screen_name": "rroVerkehr",
+			"name": "rro Verkehr",
+			"langs": ["DE"],
+			"region": "Valais"
 		}
 	]
 }

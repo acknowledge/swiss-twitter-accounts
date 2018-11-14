@@ -122,6 +122,12 @@
 			"langs": ["FR"]
 		},
 		{
+			"screen_name": "lemanbleutv",
+			"name": "Léman Bleu",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
 			"screen_name": "AargauerZeitung",
 			"name": "AargauerZeitung",
 			"langs": ["DE"],

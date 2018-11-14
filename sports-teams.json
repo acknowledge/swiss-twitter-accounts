@@ -1,0 +1,81 @@
+{
+	"accounts": [
+		{
+			"screen_name": "EtoileCarouge",
+			"name": "Etoile Carouge FC",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "scbruehl",
+			"name": "SC Brühl St. Gallen",
+			"langs": ["DE"],
+			"region": "Sankt Gallen"
+		},
+		{
+			"screen_name": "CSCHENOIS",
+			"name": "CS CHENOIS",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "HoppSuisse",
+			"name": "HoppSuisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "FC_Basel_fr",
+			"name": "FC Basel 1893",
+			"langs": ["FR"],
+			"region": "Basel"
+		},
+		{
+			"screen_name": "csitalien",
+			"name": "CS Italien F.C.",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "fc_locarno",
+			"name": "FC Locarno",
+			"langs": ["IT"],
+			"city": "Locarno"
+		},
+		{
+			"screen_name": "FC_Tuggen",
+			"name": "FC_Tuggen",
+			"langs": ["DE"],
+			"region": "Schwytz"
+		},
+		{
+			"screen_name": "BernexFc",
+			"name": "Signal Bernex FC",
+			"langs": ["FC"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "veyriersports",
+			"name": "FC Veyrier Sports",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "FCSion_DE",
+			"name": "FC Sion De",
+			"langs": ["DE"],
+			"region": "Valais"
+		},
+		{
+			"screen_name": "FC_Naters",
+			"name": "FC Naters Oberwallis",
+			"langs": ["DE"],
+			"region": "Valais"
+		},
+		{
+			"screen_name": "XamaxFCS_DE",
+			"name": "NE Xamax FCS DE",
+			"langs": ["DE"],
+			"region": "Neuchâtel"
+		}
+	]
+}
