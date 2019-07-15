@@ -305,6 +305,125 @@
 			"name": "La Notizia",
 			"langs": ["IT"],
 			"region": "Ticino"
+		},
+		{
+			"screen_name": "Gauchebdo",
+			"name": "Gauchebdo",
+			"langs": ["FR"],
+			"region": "Romandie"
+		},
+		{
+			"screen_name": "GHI_GE",
+			"name": "Genève Home Info",
+			"langs": ["FR"],
+			"city": "Genève"
+		},
+		{
+			"screen_name": "LausanneCites",
+			"name": "Lausanne Cités",
+			"langs": ["FR"],
+			"city": "Vaud"
+		},
+		{
+			"screen_name": "mag_bonasavoir",
+			"name": "Bon à Savoirs",
+			"langs": ["FR"],
+			"region": "Romandie"
+		},
+		{
+			"screen_name": "SHN_News",
+			"name": "Schaffhauser Nachrichten",
+			"langs": ["DE"],
+			"region": "Schaffhausen"
+		},
+		{
+			"screen_name": "tagblatt_ch",
+			"name": "Tagblatt.ch",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "azSolothurn",
+			"name": "SolothurnerZeitung",
+			"langs": ["DE"],
+			"region": "Solothurn"
+		},
+		{
+			"screen_name": "ZSZonline",
+			"name": "Zürichsee-Zeitung",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "epicmagazinech",
+			"name": "EPIC-magazine",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "lematindimanche",
+			"name": "Le Matin Dimanche",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "lomnibus",
+			"name": "L'Omnibus",
+			"langs": ["FR"],
+			"city": "Orbe"
+		},
+		{
+			"screen_name": "terrenature1",
+			"name": "Terre & Nature",
+			"langs": ["FR"],
+			"region": "Romandie"
+		},
+		{
+			"screen_name": "BernerRundschau",
+			"name": "Berner Rundschau",
+			"langs": ["DE"],
+			"region": "Bern"
+		},
+		{
+			"screen_name": "BILANZ",
+			"name": "BILANZ",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "BILANZ",
+			"name": "BILANZ",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "Handelszeitung",
+			"name": "Handelszeitung",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "LuzeRund",
+			"name": "Luzerner Rundschau",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "Weltwoche",
+			"name": "Die Weltwoche",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "Wochenzeitung",
+			"name": "Die Wochenzeitung",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "schweizerzeit",
+			"name": "Schweizerzeit Verlag",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
 		}
 	]
 }
