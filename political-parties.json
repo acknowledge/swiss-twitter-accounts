@@ -395,6 +395,144 @@
 			"name": "Grünliberale GR",
 			"langs": ["DE"],
 			"region": "Graubünden"
+		},
+		{
+			"screen_name": "csv_zh",
+			"name": "CSV-ZH",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "CVPFrauen",
+			"name": "CVPFrauen",
+			"langs": ["DE"],
+			"region": "OstSchweiz"
+		},
+		{
+			"screen_name": "FemmesPdcvd",
+			"name": "Femmes PDC Vaud",
+			"langs": ["FR"],
+			"region": "Vaud"
+		},
+		{
+			"screen_name": "jcvpbe",
+			"name": "Junge CVP Kt. Bern",
+			"langs": ["DE"],
+			"region": "Bern"
+		},
+		{
+			"screen_name": "JCVPSchweiz",
+			"name": "JCVP Schweiz",
+			"langs": ["DE"],
+			"region": "OstSchweiz"
+		},
+		{
+			"screen_name": "cvp_bs",
+			"name": "CVP Basel-Stadt",
+			"langs": ["DE"],
+			"region": "Basel-Stadt"
+		},
+		{
+			"screen_name": "Jcvp_bs ‏",
+			"name": "Jcvp_bs",
+			"langs": ["DE"],
+			"region": "Basel-Stadt"
+		},
+		{
+			"screen_name": "jcvpZH ‏",
+			"name": "Junge CVP Kt. Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "cvpnw‏",
+			"name": "CVP Nidwalden",
+			"langs": ["DE"],
+			"region": "Nidwalden"
+		},
+		{
+			"screen_name": "cvpnw‏",
+			"name": "CVP Nidwalden",
+			"langs": ["DE"],
+			"region": "Nidwalden"
+		},
+		{
+			"screen_name": "CVP_Schoetz",
+			"name": "CVP Schötz",
+			"langs": ["DE"],
+			"region": "Schötz"
+		},
+		{
+			"screen_name": "cvpzug",
+			"name": "CVP Kanton Zug",
+			"langs": ["DE"],
+			"region": "Zug"
+		},
+		{
+			"screen_name": "cvpoberwallis",
+			"name": "CVP Oberwallis",
+			"langs": ["DE"],
+			"region": "Oberwallis"
+		},
+		{
+			"screen_name": "cvpgrenchen",
+			"name": "CVP grenchen",
+			"langs": ["DE"],
+			"region": "Grenchen"
+		},
+		{
+			"screen_name": "cvpeschenbach",
+			"name": "CVP Eschenbach",
+			"langs": ["DE"],
+			"region": "Eschenbach"
+		},
+		{
+			"screen_name": "CVP_BL",
+			"name": "CVP Basel-Landschaft",
+			"langs": ["DE"],
+			"region": "Basel-Landschaft"
+		},
+		{
+			"screen_name": "cvpktsolothurn",
+			"name": "CVP Kt. Solothurn",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "cvpbe",
+			"name": "CVP Stadt & Kt. Bern / PDC bernois",
+			"langs": ["DE", "FR"],
+			"region": "bern"
+		},
+		{
+			"screen_name": "CVPUri",
+			"name": "CVP Uri",
+			"langs": ["DE"],
+			"region": "Uri"
+		},
+		{
+			"screen_name": "cvpsz",
+			"name": "CVP Kanton Schwyz",
+			"langs": ["DE"],
+			"region": "Schwyz"
+		},
+		{
+			"screen_name": "JCVP_Thurgau",
+			"name": "Junge CVP Thurgau",
+			"langs": ["DE"],
+			"region": "Thurgau"
+		},
+		{
+			"screen_name": "CVPAargau",
+			"name": "CVP Aargau",
+			"langs": ["DE"],
+			"region": "Aargau"
+		},
+		{
+			"screen_name": "PDCGeneve",
+			"name": "PDC Genève",
+			"langs": ["FR"],
+			"region": "Genève"
 		}
 	]
 }
