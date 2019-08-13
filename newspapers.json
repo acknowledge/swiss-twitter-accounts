@@ -424,6 +424,318 @@
 			"name": "Schweizerzeit Verlag",
 			"langs": ["DE"],
 			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "tagblatt_ch",
+			"name": "Tagblatt.ch",
+			"langs": ["DE"],
+			"region": "Ostschweiz"
+		},
+		{
+			"screen_name": "SZSolothurn",
+			"name": "SolothurnerZeitung",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "ZSZonline",
+			"name": "Zürichsee-Zeitung",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "domainepublic",
+			"name": "Domaine Public",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "evenement_ch",
+			"name": "L'Evénement syndical",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "FeminaCh",
+			"name": "Femina",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "Gauchebdo",
+			"name": "Gauchebdo",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "LeJuraLibre",
+			"name": "Le Jura Libre",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "lematindimanche",
+			"name": "Le Matin Dimanche",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "lomnibus",
+			"name": "L'Omnibus",
+			"langs": ["FR"],
+			"region": "Orbe"
+		},
+		{
+			"screen_name": "LaRegionNV",
+			"name": "La Région NV",
+			"langs": ["FR"],
+			"region": "Yverdon-les-Bains"
+		},
+		{
+			"screen_name": "RevueAutomobile",
+			"name": "Revue Automobile",
+			"langs": ["FR"],
+			"region": "Niederwangen"
+		},
+		{
+			"screen_name": "terrenature1",
+			"name": "Terre & Nature",
+			"langs": ["FR"],
+			"region": "Lausanne"
+		},
+		{
+			"screen_name": "Twigousse",
+			"name": "Vigousse",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "LausanneCites",
+			"name": "Lausanne Cités",
+			"langs": ["FR"],
+			"region": "Lausanne"
+		},
+		{
+			"screen_name": "MigrosMagazin",
+			"name": "Migros-Magazin",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "gruyere_journal",
+			"name": "Journal La Gruyère",
+			"langs": ["FR"],
+			"region": "Bulle"
+		},
+		{
+			"screen_name": "Aarauer_Nachr",
+			"name": "Aarauer Nachrichten",
+			"langs": ["DE"],
+			"region": "Aarau"
+		},
+		{
+			"screen_name": "Automobil_Revue",
+			"name": "Automobil Revue",
+			"langs": ["DE"],
+			"region": "Niederwangen"
+		},
+		{
+			"screen_name": "BILANZ",
+			"name": "BILANZ",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "bodenseewoche",
+			"name": "Bodensee Nachrichten",
+			"langs": ["DE"],
+			"region": "Bodensee"
+		},
+		{
+			"screen_name": "Handelszeitung",
+			"name": "Handelszeitung",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "LuzeRund",
+			"name": "Luzerner Rundschau",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "Moto_Sport_CH",
+			"name": "MOTO SPORT SCHWEIZ",
+			"langs": ["DE"],
+			"region": "Bern"
+		},
+		{
+			"screen_name": "NZZaS",
+			"name": "NZZ am Sonntag",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "Sonntags_Blick",
+			"name": "SonntagsBlick",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "SchweizerBauer",
+			"name": "Schweizer Bauer",
+			"langs": ["DE"],
+			"region": "Berne"
+		},
+		{
+			"screen_name": "schweizerillu",
+			"name": "Schweizer Illu",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "sonntagszeitung",
+			"name": "SonntagsZeitung",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "Weltwoche",
+			"name": "Die Weltwoche",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "FuW_News",
+			"name": "Finanz u. Wirtschaft",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "JungfrauZeitung",
+			"name": "Jungfrau Zeitung",
+			"langs": ["DE"],
+			"region": "Thun"
+		},
+		{
+			"screen_name": "WillisauerBote",
+			"name": "Willisauer Bote",
+			"langs": ["DE"],
+			"region": "Lucerne"
+		},
+		{
+			"screen_name": "TessinerZeitung",
+			"name": "Tessiner Zeitung",
+			"langs": ["DE"],
+			"region": "Locarno"
+		},
+		{
+			"screen_name": "Ticino7_CH",
+			"name": "Ticino7",
+			"langs": ["IT"],
+			"region": ""
+		},
+		{
+			"screen_name": "solidariteSvaud",
+			"name": "solidaritéS Vaud",
+			"langs": ["FR"],
+			"region": "Lausanne"
+		},
+		{
+			"screen_name": "BeobachterRat",
+			"name": "Beobachter",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "schweizerzeit",
+			"name": "Schweizerzeit Verlag",
+			"langs": ["DE"],
+			"region": "Flaach"
+		},
+		{
+			"screen_name": "AeroRevue",
+			"name": "AeroRevue",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "BettyBossi",
+			"name": "Betty Bossi",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "GOOUTMAG",
+			"name": "GO OUT! MAG",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "ictjournal",
+			"name": "ICTjournal",
+			"langs": ["FR"],
+			"region": "Lausanne"
+		},
+		{
+			"screen_name": "PME_Magazine",
+			"name": "PME Magazine",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "tophockeymag",
+			"name": "Magazine Top Hockey",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "aktuelletechnik",
+			"name": "Aktuelle Technik",
+			"langs": ["DE"],
+			"region": "Schlieren"
+		},
+		{
+			"screen_name": "Nebelspalter",
+			"name": "Nebelspalter",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "wireltern",
+			"name": "Magazin «wir eltern»",
+			"langs": ["DE"],
+			"region": "Aarau"
+		},
+		{
+			"screen_name": "LaRevueDurable",
+			"name": "LaRevueDurable",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "SalamandreNET",
+			"name": "La Salamandre",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "SuisseMagazine",
+			"name": "Suisse Magazine",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "Swissquote",
+			"name": "Swissquote",
+			"langs": ["EN"],
+			"region": "Gland"
+		},
+		{
+			"screen_name": "BauernZeitung1",
+			"name": "BauernZeitung",
+			"langs": ["DE"],
+			"region": "Bern"
 		}
 	]
 }
