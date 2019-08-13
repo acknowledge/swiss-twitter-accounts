@@ -36,6 +36,132 @@
 			"name": "rro Verkehr",
 			"langs": ["DE"],
 			"region": "Valais"
+		},
+		{
+			"screen_name": "classic_onair",
+			"name": "RadioSwissClassic",
+			"langs": ["EN"],
+			"region": "Basel"
+		},
+		{
+			"screen_name": "pop_onair",
+			"name": "RadioSwissPop OnAir",
+			"langs": ["EN"],
+			"region": "Basel"
+		},
+		{
+			"screen_name": "jazz_onair",
+			"name": "RadioSwissJazz OnAir",
+			"langs": ["EN"],
+			"region": "Basel"
+		},
+		{
+			"screen_name": "radio32ag",
+			"name": "Radio 32",
+			"langs": ["DE"],
+			"region": "Solothurn"
+		},
+		{
+			"screen_name": "Radio3FACH",
+			"name": "Radio 3FACH",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "RadioArgovia",
+			"name": "Radio Argovia",
+			"langs": ["DE"],
+			"region": "Aargau"
+		},
+		{
+			"screen_name": "Radio_X_Basel",
+			"name": "Radio X Basel",
+			"langs": ["DE"],
+			"region": "Basel"
+		},
+		{
+			"screen_name": "Radio_Basilisk",
+			"name": "Radio Basilisk",
+			"langs": ["DE"],
+			"region": "Basel"
+		},
+		{
+			"screen_name": "energy_ch",
+			"name": "Energy_ch",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "FreiburgNews",
+			"name": "Radio Freiburg News",
+			"langs": ["DE"],
+			"region": "Freiburg"
+		},
+		{
+			"screen_name": "kaiseregg",
+			"name": "Radio Kaiseregg",
+			"langs": ["DE"],
+			"region": "Düdingen"
+		},
+		{
+			"screen_name": "radio_neo1",
+			"name": "neo1 - Mein Radio",
+			"langs": ["DE"],
+			"region": "Langnau"
+		},
+		{
+			"screen_name": "radiopilatus",
+			"name": "Radio Pilatus",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "radiorabe",
+			"name": "Radio Bern RaBe",
+			"langs": ["DE"],
+			"region": "Bern"
+		},
+		{
+			"screen_name": "stadtfilter",
+			"name": "Radio Stadtfilter",
+			"langs": ["DE"],
+			"region": "Winterthur"
+		},
+		{
+			"screen_name": "toxicfm",
+			"name": "toxic.fm",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "radiorjb",
+			"name": "Radio RJB",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "radiochablais",
+			"name": "Radio Chablais",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "FribourgInfo",
+			"name": "Radio Fribourg Info",
+			"langs": ["FR"],
+			"region": "Fribourg"
+		},
+		{
+			"screen_name": "FribourgSport",
+			"name": "Radio Fribourg Sport",
+			"langs": ["FR"],
+			"region": "Fribourg"
+		},
+		{
+			"screen_name": "rhonefm",
+			"name": "Rhône FM",
+			"langs": ["FR"],
+			"region": "Sion"
 		}
 	]
 }
