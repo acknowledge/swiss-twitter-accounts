@@ -539,354 +539,354 @@
 			"name": "Grünliberale Schweiz",
 			"langs": ["DE"],
 			"region": ""
-        },
-        {
-            "screen_name": "jglpCH",
-            "name": "Junge Grünliberale",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "glp_bern",
-            "name": "Grünliberale Bern",
-            "langs": ["DE"],
-            "region": "bern"
-        },
-        {
-            "screen_name": "glpzh",
-            "name": "Grünliberale Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "glpzh",
-            "name": "Grünliberale Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "jglpZH",
-            "name": "Junge glp Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "glpstadtzuerich",
-            "name": "glp Stadt Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "glp_BE",
-            "name": "Grünliberale Kanton Bern",
-            "langs": ["DE"],
-            "region": "bern"
-        },
-        {
-            "screen_name": "jglp_be",
-            "name": "Junge Grünliberale Bern",
-            "langs": ["DE"],
-            "region": "bern"
-        },
-        {
-            "screen_name": "glp_ag",
-            "name": "Grünliberale Aargau",
-            "langs": ["DE"],
-            "region": "Aargau"
-        },
-        {
-            "screen_name": "jglplu",
-            "name": "Junge Grünliberale Luzern",
-            "langs": ["DE"],
-            "region": "Luzern"
-        },
-        {
-            "screen_name": "jglp_sg",
-            "name": "jglp St.Gallen",
-            "langs": ["DE"],
-            "region": "St.Gallen"
-        },
-        {
-            "screen_name": "glpTG",
-            "name": "glp Thurgau",
-            "langs": ["DE"],
-            "region": "Thurgau"
-        },
-        {
-            "screen_name": "glpBielBienne",
-            "name": "glp Biel/Bienne",
-            "langs": ["DE"],
-            "region": "Bienne"
-        },
-        {
-            "screen_name": "pvlBielBienne",
-            "name": "pvl Biel/Bienne",
-            "langs": ["FR"],
-            "region": "Bienne"
-        },
-        {
-            "screen_name": "glp_mundigen",
-            "name": "glp ostermundigen",
-            "langs": ["DE"],
-            "region": "Ostermundigen"
-        },
-        {
-            "screen_name": "jglp_gr",
-            "name": "JGLP GR",
-            "langs": ["DE"],
-            "region": "Chur"
-        },
-        {
-            "screen_name": "glp_Kriens",
-            "name": "Grünliberale Kriens",
-            "langs": ["DE"],
-            "region": "Kriens"
-        },
-        {
-            "screen_name": "GlpHorgen",
-            "name": "GLP Bezirk Horgen",
-            "langs": ["DE"],
-            "region": "Zurich"
-        },
-        {
-            "screen_name": "glp_BL",
-            "name": "Grünliberale Basel-Landschaft",
-            "langs": ["DE"],
-            "region": "Liestal"
-        },
-        {
-            "screen_name": "verdiliberaliti",
-            "name": "verdi liberali - grünliberale - vert’liberaux",
-            "langs": ["IT"],
-            "region": "Ticino"
-        },
-        {
-            "screen_name": "CVP_PDC",
-            "name": "CVP PDC PPD PCD",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "JCVPSchweiz",
-            "name": "JCVP Schweiz | JDC",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "jcvp_sg",
-            "name": "JCVP SG",
-            "langs": ["DE"],
-            "region": "St.Gallen"
-        },
-        {
-            "screen_name": "JDC_FR_JCVP",
-            "name": "JDC / JCVP Fribourg",
-            "langs": ["FR", "DE"],
-            "region": "Fribourg"
-        },
-        {
-            "screen_name": "PDCFribourg",
-            "name": "PDC Fribourg",
-            "langs": ["FR", "DE"],
-            "region": "Fribourg"
-        },
-        {
-            "screen_name": "PDCVilleFR",
-            "name": "PDC Ville Fribourg",
-            "langs": ["FR"],
-            "region": "Fribourg"
-        },
-        {
-            "screen_name": "jdcvalaisromand",
-            "name": "JDC Valais Romand",
-            "langs": ["FR"],
-            "region": "Valais"
-        },
-        {
-            "screen_name": "cvpbe",
-            "name": "CVP Stadt & Kt. Bern / PDC bernois",
-            "langs": ["DE","FR"],
-            "region": "Bern"
-        },
-        {
-            "screen_name": "CVPAargau",
-            "name": "CVP Aargau",
-            "langs": ["DE"],
-            "region": "Aarau"
-        },
-        {
-            "screen_name": "cvpluzern",
-            "name": "CVP Kanton Luzern",
-            "langs": ["DE"],
-            "region": "Luzern"
-        },
-        {
-            "screen_name": "cvp_zh",
-            "name": "CVP Kanton Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "fdp_zh",
-            "name": "FDP Kanton Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "PLR_Suisse",
-            "name": "PLR Suisse",
-            "langs": ["FR"],
-            "region": ""
-        },
-        {
-            "screen_name": "PLR_Geneve",
-            "name": "PLR Genève",
-            "langs": ["FR"],
-            "region": "Genève"
-        },
-        {
-            "screen_name": "PLR_VD",
-            "name": "PLR_VD",
-            "langs": ["FR"],
-            "region": "Vaud"
-        },
-        {
-            "screen_name": "PLRLausanne",
-            "name": "PLR Lausanne",
-            "langs": ["FR"],
-            "region": "Lausanne"
-        },
-        {
-            "screen_name": "JFZH",
-            "name": "Jungfreisinnige ZH",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "FDP_Liberalen",
-            "name": "FDP Schweiz",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "Jungfreisinnige",
-            "name": "Jungfreisinnige CH",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "JLR_CH",
-            "name": "JLRS",
-            "langs": ["FR"],
-            "region": ""
-        },
-        {
-            "screen_name": "FDPFrauenCH",
-            "name": "FDPFrauenCH",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "FDP_Luzern",
-            "name": "FDP Luzern",
-            "langs": ["DE"],
-            "region": "Luzern"
-        },
-        {
-            "screen_name": "PBDSuisse",
-            "name": "PBD Suisse",
-            "langs": ["FR"],
-            "region": ""
-        },
-        {
-            "screen_name": "PBD_VD",
-            "name": "PBD Vaud",
-            "langs": ["FR"],
-            "region": "Lausanne"
-        },
-        {
-            "screen_name": "PBD_Frib",
-            "name": "PBD Fribourg / BDP Freiburg",
-            "langs": ["FR", "DE"],
-            "region": "Fribourg"
-        },
-        {
-            "screen_name": "JBDP_CH",
-            "name": "Junge BDP Schweiz",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "BDPLuzern",
-            "name": "BDP Kanton Luzern",
-            "langs": ["DE"],
-            "region": "Luzern"
-        },
-        {
-            "screen_name": "BDP_Biel",
-            "name": "BDP Stadt Biel",
-            "langs": ["DE"],
-            "region": "Bienne"
-        },
-        {
-            "screen_name": "aargauer_bdp",
-            "name": "BDP Kanton Aargau",
-            "langs": ["DE"],
-            "region": "Aargau"
-        },
-        {
-            "screen_name": "bdp_zurich",
-            "name": "BDP Kanton Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "GlarnerBDP",
-            "name": "BDP Kanton Glarus",
-            "langs": ["DE"],
-            "region": "Glarus"
-        },
-        {
-            "screen_name": "UDCch",
-            "name": "UDC Suisse",
-            "langs": ["FR"],
-            "region": ""
-        },
-        {
-            "screen_name": "SVPch",
-            "name": "SVP Schweiz",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "jungesvp",
-            "name": "jsvp_judc",
-            "langs": ["DE"],
-            "region": ""
-        },
-        {
-            "screen_name": "svpzh",
-            "name": "SVP Kanton Zürich",
-            "langs": ["DE"],
-            "region": "Zürich"
-        },
-        {
-            "screen_name": "svptg",
-            "name": "SVP Thurgau",
-            "langs": ["DE"],
-            "region": "Thurgau"
-        },
-        {
-            "screen_name": "JeunesUDCVaud",
-            "name": "Jeunes UDC Vaud",
-            "langs": ["FR"],
-            "region": "Vaud"
-        },
-        {
-            "screen_name": "UdcGeneve",
-            "name": "UDC Geneve",
-            "langs": ["FR"],
-            "region": "Geneve"
-        }
+		},
+		{
+			"screen_name": "jglpCH",
+			"name": "Junge Grünliberale",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "glp_bern",
+			"name": "Grünliberale Bern",
+			"langs": ["DE"],
+			"region": "bern"
+		},
+		{
+			"screen_name": "glpzh",
+			"name": "Grünliberale Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "glpzh",
+			"name": "Grünliberale Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "jglpZH",
+			"name": "Junge glp Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "glpstadtzuerich",
+			"name": "glp Stadt Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "glp_BE",
+			"name": "Grünliberale Kanton Bern",
+			"langs": ["DE"],
+			"region": "bern"
+		},
+		{
+			"screen_name": "jglp_be",
+			"name": "Junge Grünliberale Bern",
+			"langs": ["DE"],
+			"region": "bern"
+		},
+		{
+			"screen_name": "glp_ag",
+			"name": "Grünliberale Aargau",
+			"langs": ["DE"],
+			"region": "Aargau"
+		},
+		{
+			"screen_name": "jglplu",
+			"name": "Junge Grünliberale Luzern",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "jglp_sg",
+			"name": "jglp St.Gallen",
+			"langs": ["DE"],
+			"region": "St.Gallen"
+		},
+		{
+			"screen_name": "glpTG",
+			"name": "glp Thurgau",
+			"langs": ["DE"],
+			"region": "Thurgau"
+		},
+		{
+			"screen_name": "glpBielBienne",
+			"name": "glp Biel/Bienne",
+			"langs": ["DE"],
+			"region": "Bienne"
+		},
+		{
+			"screen_name": "pvlBielBienne",
+			"name": "pvl Biel/Bienne",
+			"langs": ["FR"],
+			"region": "Bienne"
+		},
+		{
+			"screen_name": "glp_mundigen",
+			"name": "glp ostermundigen",
+			"langs": ["DE"],
+			"region": "Ostermundigen"
+		},
+		{
+			"screen_name": "jglp_gr",
+			"name": "JGLP GR",
+			"langs": ["DE"],
+			"region": "Chur"
+		},
+		{
+			"screen_name": "glp_Kriens",
+			"name": "Grünliberale Kriens",
+			"langs": ["DE"],
+			"region": "Kriens"
+		},
+		{
+			"screen_name": "GlpHorgen",
+			"name": "GLP Bezirk Horgen",
+			"langs": ["DE"],
+			"region": "Zurich"
+		},
+		{
+			"screen_name": "glp_BL",
+			"name": "Grünliberale Basel-Landschaft",
+			"langs": ["DE"],
+			"region": "Liestal"
+		},
+		{
+			"screen_name": "verdiliberaliti",
+			"name": "verdi liberali - grünliberale - vert’liberaux",
+			"langs": ["IT"],
+			"region": "Ticino"
+		},
+		{
+			"screen_name": "CVP_PDC",
+			"name": "CVP PDC PPD PCD",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "JCVPSchweiz",
+			"name": "JCVP Schweiz | JDC",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "jcvp_sg",
+			"name": "JCVP SG",
+			"langs": ["DE"],
+			"region": "St.Gallen"
+		},
+		{
+			"screen_name": "JDC_FR_JCVP",
+			"name": "JDC / JCVP Fribourg",
+			"langs": ["FR", "DE"],
+			"region": "Fribourg"
+		},
+		{
+			"screen_name": "PDCFribourg",
+			"name": "PDC Fribourg",
+			"langs": ["FR", "DE"],
+			"region": "Fribourg"
+		},
+		{
+			"screen_name": "PDCVilleFR",
+			"name": "PDC Ville Fribourg",
+			"langs": ["FR"],
+			"region": "Fribourg"
+		},
+		{
+			"screen_name": "jdcvalaisromand",
+			"name": "JDC Valais Romand",
+			"langs": ["FR"],
+			"region": "Valais"
+		},
+		{
+			"screen_name": "cvpbe",
+			"name": "CVP Stadt & Kt. Bern / PDC bernois",
+			"langs": ["DE","FR"],
+			"region": "Bern"
+		},
+		{
+			"screen_name": "CVPAargau",
+			"name": "CVP Aargau",
+			"langs": ["DE"],
+			"region": "Aarau"
+		},
+		{
+			"screen_name": "cvpluzern",
+			"name": "CVP Kanton Luzern",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "cvp_zh",
+			"name": "CVP Kanton Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "fdp_zh",
+			"name": "FDP Kanton Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "PLR_Suisse",
+			"name": "PLR Suisse",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "PLR_Geneve",
+			"name": "PLR Genève",
+			"langs": ["FR"],
+			"region": "Genève"
+		},
+		{
+			"screen_name": "PLR_VD",
+			"name": "PLR_VD",
+			"langs": ["FR"],
+			"region": "Vaud"
+		},
+		{
+			"screen_name": "PLRLausanne",
+			"name": "PLR Lausanne",
+			"langs": ["FR"],
+			"region": "Lausanne"
+		},
+		{
+			"screen_name": "JFZH",
+			"name": "Jungfreisinnige ZH",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "FDP_Liberalen",
+			"name": "FDP Schweiz",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "Jungfreisinnige",
+			"name": "Jungfreisinnige CH",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "JLR_CH",
+			"name": "JLRS",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "FDPFrauenCH",
+			"name": "FDPFrauenCH",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "FDP_Luzern",
+			"name": "FDP Luzern",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "PBDSuisse",
+			"name": "PBD Suisse",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "PBD_VD",
+			"name": "PBD Vaud",
+			"langs": ["FR"],
+			"region": "Lausanne"
+		},
+		{
+			"screen_name": "PBD_Frib",
+			"name": "PBD Fribourg / BDP Freiburg",
+			"langs": ["FR", "DE"],
+			"region": "Fribourg"
+		},
+		{
+			"screen_name": "JBDP_CH",
+			"name": "Junge BDP Schweiz",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "BDPLuzern",
+			"name": "BDP Kanton Luzern",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "BDP_Biel",
+			"name": "BDP Stadt Biel",
+			"langs": ["DE"],
+			"region": "Bienne"
+		},
+		{
+			"screen_name": "aargauer_bdp",
+			"name": "BDP Kanton Aargau",
+			"langs": ["DE"],
+			"region": "Aargau"
+		},
+		{
+			"screen_name": "bdp_zurich",
+			"name": "BDP Kanton Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "GlarnerBDP",
+			"name": "BDP Kanton Glarus",
+			"langs": ["DE"],
+			"region": "Glarus"
+		},
+		{
+			"screen_name": "UDCch",
+			"name": "UDC Suisse",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "SVPch",
+			"name": "SVP Schweiz",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "jungesvp",
+			"name": "jsvp_judc",
+			"langs": ["DE"],
+			"region": ""
+		},
+		{
+			"screen_name": "svpzh",
+			"name": "SVP Kanton Zürich",
+			"langs": ["DE"],
+			"region": "Zürich"
+		},
+		{
+			"screen_name": "svptg",
+			"name": "SVP Thurgau",
+			"langs": ["DE"],
+			"region": "Thurgau"
+		},
+		{
+			"screen_name": "JeunesUDCVaud",
+			"name": "Jeunes UDC Vaud",
+			"langs": ["FR"],
+			"region": "Vaud"
+		},
+		{
+			"screen_name": "UdcGeneve",
+			"name": "UDC Geneve",
+			"langs": ["FR"],
+			"region": "Geneve"
+		}
 	]
 }
