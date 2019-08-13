@@ -103,6 +103,54 @@
 			"name": "SRF Regionaljournal",
 			"langs": ["DE"],
 			"region": "Basel"
+		},
+		{
+			"screen_name": "TV5MONDE",
+			"name": "TV5MONDE",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "Tele1ZF",
+			"name": "Tele 1",
+			"langs": ["DE"],
+			"region": "Luzern"
+		},
+		{
+			"screen_name": "Telebasel",
+			"name": "Telebasel",
+			"langs": ["DE"],
+			"region": "Basel"
+		},
+		{
+			"screen_name": "TeleBaernTV",
+			"name": "TeleBärn",
+			"langs": ["DE"],
+			"region": "Bern"
+		},
+		{
+			"screen_name": "TeleZueri",
+			"name": "TeleZüri",
+			"langs": ["DE"],
+			"region": "Zurich"
+		},
+		{
+			"screen_name": "canal9valais",
+			"name": "Canal9",
+			"langs": ["FR"],
+			"region": "Sierre"
+		},
+		{
+			"screen_name": "la_tele",
+			"name": "La Télé",
+			"langs": ["FR"],
+			"region": ""
+		},
+		{
+			"screen_name": "Teleticino",
+			"name": "Teleticino",
+			"langs": ["IT"],
+			"region": "Melide"
 		}
 	]
 }
