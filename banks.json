@@ -1,0 +1,184 @@
+{
+	"accounts": [
+		{
+			"screen_name": "CSschweiz",
+			"name": "Credit Suisse CH",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "UBSschweiz",
+			"name": "UBS Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "ValiantBank",
+			"name": "Valiant Bank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BanqueValiant",
+			"name": "Banque Valiant",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "zkb_ch",
+			"name": "Zürcher Kantonalbank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "AppenzellerKB",
+			"name": "Appenzeller KB",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "ukb_ch",
+			"name": "Urner Kantonalbank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "ZuercherBanken",
+			"name": "ZBV",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "LuzernerKB",
+			"name": "Luzerner Kantonalbank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "bcvs_wkb",
+			"name": "BCVs | WKB",
+			"langs": ["DE", "FR"]
+		},
+		{
+			"screen_name": "BaslerKB",
+			"name": "Basler Kantonalbank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BasellandKB",
+			"name": "BLKB",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "bcn_banque",
+			"name": "BCN",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "sgkb_news",
+			"name": "SGKB News",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "gkb_ch",
+			"name": "Graubündner Kantonalbank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BCVFinance",
+			"name": "BCV Finance et éco",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "BCV",
+			"name": "BCV",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Swisscanto",
+			"name": "Swisscanto Invest",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "bankcler",
+			"name": "Bank Cler",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BanqueCler",
+			"name": "Banque Cler",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "BancaCler",
+			"name": "Banca Cler",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "migrosbank",
+			"name": "Migros Bank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BankenBasel",
+			"name": "Basler Bankenvereinigung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Raiffeisen_CH",
+			"name": "Raiffeisen CH",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "raiffeisen_lab",
+			"name": "RAI Lab",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "WIRBank",
+			"name": "WIR Bank",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "TWINT_AG",
+			"name": "TWINT",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "UBSTWINT",
+			"name": "UBS TWINT",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Viseca_Cards",
+			"name": "Viseca Card Services",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "neon_accountapp",
+			"name": "neon",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "viacapp",
+			"name": "Viac App",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "CembraMoneyBank",
+			"name": "Cembra Money Bank AG",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "AdunoGruppe",
+			"name": "Aduno Gruppe",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "MastercardCH",
+			"name": "MastercardCH",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Bank_CIC",
+			"name": "Bank CIC",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "PostFinance",
+			"name": "PostFinance",
+			"langs": ["DE"]
+		}
+	]
+}
