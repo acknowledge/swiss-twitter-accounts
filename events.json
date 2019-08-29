@@ -1,0 +1,79 @@
+{
+	"accounts": [
+		{
+			"screen_name": "fdvofficiel",
+			"name": "Foire du Valais",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "champexstival",
+			"name": "Champex'stival - 7ème édition 💙",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "bouraskfestival",
+			"name": "Bourask Festival",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "tohubohufest",
+			"name": "Tohu-Bohu Festival",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "auborddeleau",
+			"name": "Festival Week-end au bord de l’eau",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "SismicsFestival",
+			"name": "Sismics Festival",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Arts0nic",
+			"name": "Artsonic",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "cavesdumanoir",
+			"name": "Caves du Manoir",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "rockaltitude",
+			"name": "Rock Altitude",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "FestivalArcades",
+			"name": "Festival Arcades",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "MorginsFestival",
+			"name": "Morgins Festival",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "LePortFranc",
+			"name": "Le Port Franc",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Avalanche_fest",
+			"name": "Yéti",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "PALPfestival",
+			"name": "PALP_festival",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "eValais_ch",
+			"name": "eValais.ch",
+			"langs": ["FR"]
+		}
+	]
+}
