@@ -1,0 +1,399 @@
+{
+	"accounts": [
+		{
+			"screen_name": "Galaxus",
+			"name": "Galaxus",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "brack",
+			"name": "Brack.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "microspot_ch",
+			"name": "microspot.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "daydeal",
+			"name": "DayDeal.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "coop_ch",
+			"name": "Coop",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "migros",
+			"name": "Migros",
+			"langs": ["FR", "DE"]
+		},
+		{
+			"screen_name": "swisspostnews_i",
+			"name": "La Posta | News",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "swisspostnews_d",
+			"name": "Die Post | News",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "swisspostnews_f",
+			"name": "La Poste | News",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "postschweiz",
+			"name": "Die Post",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "postasvizzera",
+			"name": "La Posta",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "PostAuto",
+			"name": "PostAuto",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "AutoPostale",
+			"name": "AutoPostale",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "microsoft_ch",
+			"name": "Microsoft Schweiz",
+			"langs": ["EN", "DE"]
+		},
+		{
+			"screen_name": "Klubschule",
+			"name": "Klubschule Migros",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "ecoleclub",
+			"name": "Ecole-club Migros",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "EnMigros",
+			"name": "Engagement Migros",
+			"langs": ["DE", "EN"]
+		},
+		{
+			"screen_name": "businessvalais",
+			"name": "Business Valais",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "MonsterEnergyCH",
+			"name": "Monster Energy CH",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Swisscom_News_d",
+			"name": "Swisscom News d",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Swisscom_News_f",
+			"name": "Swisscom News f",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Swisscom_it",
+			"name": "Swisscom",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "Swisscom_fr",
+			"name": "Swisscom",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Swisscom_de",
+			"name": "Swisscom",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Swisscom_Career",
+			"name": "Swisscom_Career",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "Swisscom",
+			"name": "Swisscom News EN",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_en",
+			"name": "Swisscom Business",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_fr",
+			"name": "Swisscom Business",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_de",
+			"name": "Swisscom Business",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_it",
+			"name": "Swisscom Business",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "SaltMobile_FR",
+			"name": "Salt Mobile SA",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "SaltMobile_DE",
+			"name": "Salt Mobile AG",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "SaltMobile_Care",
+			"name": "Salt Care Crew",
+			"langs": ["DE", "FR", "EN"]
+		},
+		{
+			"screen_name": "Wingo_fr",
+			"name": "Wingo_fr",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Wingo_de",
+			"name": "Wingo_de",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "UPC_Switzerland",
+			"name": "UPC Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "MySports_CH",
+			"name": "MysportsCH",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "telekom_ch",
+			"name": "Telekom Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Sunrise_fr",
+			"name": "Sunrise_fr",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Sunrise_Care",
+			"name": "Sunrise Care",
+			"langs": ["FR", "IT", "DE", "EN"]
+		},
+		{
+			"screen_name": "Sunrise_de",
+			"name": "Sunrise",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Citycable",
+			"name": "Citycable",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "frc_CH",
+			"name": "FRC",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "digitec_fr",
+			"name": "digitec FR",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "digitec_en",
+			"name": "digitec EN",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "digitec_de",
+			"name": "digitec",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "dg_onair",
+			"name": "Digitec Galaxus on air",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Galaxus",
+			"name": "Galaxus",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Galaxus_f",
+			"name": "Galaxus FR",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "fnac_suisse",
+			"name": "Fnac Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Starticket_ch",
+			"name": "Starticket",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Ticketcorner",
+			"name": "Ticketcorner",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "STEGelectronics",
+			"name": "STEG Electronics",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "mediamarkt_ch",
+			"name": "MediaMarkt Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "interdiscount",
+			"name": "InterDiscount",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "McDSchweiz",
+			"name": "McDonald's Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "McDSuisse",
+			"name": "McDonald's Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "ConradCH",
+			"name": "Conrad Electronic AG",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Ifolor",
+			"name": "ifolor",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "zweifelchips",
+			"name": "Zweifel Chips",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Ovomaltine",
+			"name": "Ovomaltine Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Comparis",
+			"name": "comparis.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "localch",
+			"name": "localch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "searchch",
+			"name": "search.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "localsearch_ch",
+			"name": "localsearch",
+			"langs": ["DE", "EN"]
+		},
+		{
+			"screen_name": "Qsport_Suisse",
+			"name": "Qsport Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Qsport_Schweiz",
+			"name": "Qsport Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "qwine_schweiz",
+			"name": "Qwine Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Qwine_ch",
+			"name": "Qwine Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Qooking_Schweiz",
+			"name": "Qooking Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Qooking_Suisse",
+			"name": "Qooking Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Qids_schweiz",
+			"name": "Qids.ch Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Qids_Suisse",
+			"name": "Qids.ch",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "QoQa_Schweiz",
+			"name": "QoQa.ch Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "QoQa_ch",
+			"name": "QoQa.ch Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Qbeer_Suisse",
+			"name": "Qbeer Suisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Qbeer_Schweiz",
+			"name": "Qbeer Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "exlibris_ch",
+			"name": "Ex Libris",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "cedeshopag",
+			"name": "cede.ch",
+			"langs": ["DE"]
+		}
+	]
+}
