@@ -1,0 +1,99 @@
+{
+	"accounts": [
+		{
+			"screen_name": "AXA_Schweiz",
+			"name": "AXA Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "baloise_ch",
+			"name": "BaloiseCH",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "baloise_jobs",
+			"name": "Baloise Jobs",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Baloise_Group",
+			"name": "Baloise Group",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Vaudoise_de",
+			"name": "Vaudoise_de",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "helvetia",
+			"name": "Helvetia Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "swisslife_ch",
+			"name": "Swiss Life",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "SwissLife_AM",
+			"name": "Swiss Life AM",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "swisslife_group",
+			"name": "Swiss Life Group",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "SWICA_SWICA",
+			"name": "SWICA",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "VisanaServices",
+			"name": "Visana Services AG",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Helsana",
+			"name": "Helsana",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "santesuisse_fr",
+			"name": "santésuisse",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "santesuisse",
+			"name": "santésuisse",
+			"langs": ["FR", "DE"]
+		},
+		{
+			"screen_name": "CSSVersicherung",
+			"name": "CSS Versicherung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "zurich_ch",
+			"name": "Zurich Versicherung",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "allianzsuisse",
+			"name": "Allianz Suisse",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "SwissInsurers",
+			"name": "Schweizerischer Versicherungsverband SVV",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "GeneraliSchweiz",
+			"name": "Generali Switzerland",
+			"langs": ["EN"]
+		}
+	]
+}
