@@ -307,6 +307,12 @@
 			"region": "Ticino"
 		},
 		{
+			"screen_name": "ticinonews",
+			"name": "Ticinonews",
+			"langs": ["IT"],
+			"region": "Ticino"
+		},
+		{
 			"screen_name": "Gauchebdo",
 			"name": "Gauchebdo",
 			"langs": ["FR"],

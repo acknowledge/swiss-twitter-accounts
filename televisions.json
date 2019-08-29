@@ -147,6 +147,21 @@
 			"region": ""
 		},
 		{
+			"screen_name": "mag_bonasavoir",
+			"name": "Bon à Savoir",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "miseaupoint",
+			"name": "Mise au Point",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "19h30RTS",
+			"name": "Le 19h30 de la RTS",
+			"langs": ["FR"]
+		},
+		{
 			"screen_name": "Teleticino",
 			"name": "Teleticino",
 			"langs": ["IT"],

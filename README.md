@@ -4,13 +4,19 @@ Swiss Twitter Accounts
 List of Twitter accounts from Switzerland divided by category, in JSON format. The goal is to gather the accounts that are influent and potentially followed only in Switzerland.
 
 Lists available:
+- banks
+- companies
+- events
+- insurances
 - newspapers
-- politicians
-- radios
-- televisions
-- sports-teams
-- political-parties
 - personalities
+- political-parties
+- politicians (--> https://parl.ch/tweets)
+- radios
+- sports-teams
+- telcos
+- televisions
+- transportations
 
 Format:
 ```
@@ -34,9 +40,9 @@ The following fields can be added to the structure:
 
 Ideas for new lists:
 - cities
-- poilitical parties
-- events
-- ...
+- institutions
+- events (music festivals, expos)
+
 
 Contribute
 ----------

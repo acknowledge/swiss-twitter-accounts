@@ -162,6 +162,21 @@
 			"name": "Rhône FM",
 			"langs": ["FR"],
 			"region": "Sion"
+		},
+		{
+			"screen_name": "onenparleRTS",
+			"name": "onenparle",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "rtsvertigo",
+			"name": "Vertigo",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "medialogues",
+			"name": "Médialogues",
+			"langs": ["FR"]
 		}
 	]
 }
