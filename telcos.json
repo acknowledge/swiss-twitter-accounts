@@ -1,0 +1,124 @@
+{
+	"accounts": [
+		{
+			"screen_name": "Swisscom_News_d",
+			"name": "Swisscom News d",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Swisscom_News_f",
+			"name": "Swisscom News f",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Swisscom_it",
+			"name": "Swisscom",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "Swisscom_fr",
+			"name": "Swisscom",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Swisscom_de",
+			"name": "Swisscom",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Swisscom_Career",
+			"name": "Swisscom_Career",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "Swisscom",
+			"name": "Swisscom News EN",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_en",
+			"name": "Swisscom Business",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_fr",
+			"name": "Swisscom Business",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_de",
+			"name": "Swisscom Business",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Swisscom_B2B_it",
+			"name": "Swisscom Business",
+			"langs": ["IT"]
+		},
+		{
+			"screen_name": "SaltMobile_FR",
+			"name": "Salt Mobile SA",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "SaltMobile_DE",
+			"name": "Salt Mobile AG",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "SaltMobile_Care",
+			"name": "Salt Care Crew",
+			"langs": ["DE", "FR", "EN"]
+		},
+		{
+			"screen_name": "Wingo_fr",
+			"name": "Wingo_fr",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Wingo_de",
+			"name": "Wingo_de",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "UPC_Switzerland",
+			"name": "UPC Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "MySports_CH",
+			"name": "MysportsCH",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "telekom_ch",
+			"name": "Telekom Schweiz",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Sunrise_fr",
+			"name": "Sunrise_fr",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "Sunrise_Care",
+			"name": "Sunrise Care",
+			"langs": ["FR", "IT", "DE", "EN"]
+		},
+		{
+			"screen_name": "Sunrise_de",
+			"name": "Sunrise",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Citycable",
+			"name": "Citycable",
+			"langs": ["FR"]
+		},
+		{
+			"screen_name": "BLIBLABLO_ch",
+			"name": "BLI BLA BLO",
+			"langs": ["FR"]
+		}
+	]
+}
