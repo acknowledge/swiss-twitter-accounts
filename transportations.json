@@ -1,0 +1,89 @@
+{
+	"accounts": [
+		{
+			"screen_name": "rhaetischebahn",
+			"name": "Rhätische Bahn",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "BERNMOBIL",
+			"name": "BERNMOBIL",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "vbz_zueri_linie",
+			"name": "VBZ Züri-Linie",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "zvv_contact",
+			"name": "ZVV-Contact",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "zvv",
+			"name": "ZVV",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "app_bahnen",
+			"name": "Appenzeller Bahnen",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "RBS_ch",
+			"name": "Regionalverkehr BeSo",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "blsAG",
+			"name": "BLS",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "bahnONLINEch",
+			"name": "Bahnonline.ch",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "sob_ch",
+			"name": "Südostbahn",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "mgbahn",
+			"name": "Matterhorn Gottard Bahn",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "Gornergratbahn",
+			"name": "Gornergrat",
+			"langs": ["EN"]
+		},
+		{
+			"screen_name": "stgallerbus",
+			"name": "stgallerbus",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "vzo",
+			"name": "VZO Bus",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "SBBCargo",
+			"name": "SBBCargo",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "sbbnews",
+			"name": "SBB Medienstelle",
+			"langs": ["DE"]
+		},
+		{
+			"screen_name": "RailService",
+			"name": "RailService SBB CFF FFS",
+			"langs": ["FR", "DE"]
+		}
+	]
+}
