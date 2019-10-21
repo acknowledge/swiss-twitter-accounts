@@ -71,11 +71,6 @@
 			"langs": ["FR"]
 		},
 		{
-			"name": "Franz Grueter",
-			"screen_name": "fgrueter",
-			"langs": ["DE"]
-		},
-		{
 			"name": "Tim Guldimann",
 			"screen_name": "TimGuldimann",
 			"langs": ["DE"]
@@ -478,11 +473,6 @@
 		{
 			"name": "Nadine Masshardt",
 			"screen_name": "nmasshardt",
-			"langs": ["DE"]
-		},
-		{
-			"name": "FranzGrueter",
-			"screen_name": "FranzGrueter",
 			"langs": ["DE"]
 		},
 		{
@@ -899,6 +889,231 @@
 			"name": "Dr. Bastien Girod",
 			"screen_name": "bastiengirod",
 			"langs": ["DE"]
+		},
+		{
+			"name": "FranzGrueter",
+			"screen_name": "FranzGrueter",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Franz Grueter",
+			"screen_name": "fgrueter",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Kurt Fluri",
+			"screen_name": "FluriKurt",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Beat Jans",
+			"screen_name": "beat_jans",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Fehlmann Rielle Laurence",
+			"screen_name": "FehlmannRielle",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Regine Sauter",
+			"screen_name": "regine_sauter",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Roger Köppel",
+			"screen_name": "KoeppelRoger",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Andri Silberschmidt",
+			"screen_name": "andrisilbi_",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Céline Widmer",
+			"screen_name": "CelineWidmer1",
+			"langs": ["DE"]
+		},
+		{
+			"name": "judith bellaiche",
+			"screen_name": "judithbellaiche",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Corina Gredig",
+			"screen_name": "corinagredig",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Jörg Mäder",
+			"screen_name": "joergmaeder",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Barbara Schaffner",
+			"screen_name": "BaSchaffner",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Katharina Prelicz-Huber",
+			"screen_name": "KPrelicz",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Marionna Schlatter",
+			"screen_name": "marionnasch",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Meret Schneider",
+			"screen_name": "Schneimere",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Tamara Funiciello",
+			"screen_name": "Tamarafuniciell",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Melanie Mettler",
+			"screen_name": "doppel_m",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Beatrice Simon",
+			"screen_name": "bernerfinanzen",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Christine Badertscher",
+			"screen_name": "ChBadertscher",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Kilian Baumann",
+			"screen_name": "Kilian_Baumann",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Roland Fischer",
+			"screen_name": "RolaFir",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Monika Rüegger",
+			"screen_name": "monika_rueegger",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Marie-France Roth Pasquier",
+			"screen_name": "MFRP2010",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Gerhard Andrey",
+			"screen_name": "anderageru",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Franziska Roth",
+			"screen_name": "Franziska_Roth_",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Felix Wettstein",
+			"screen_name": "FelixWettstein",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Katja Christ",
+			"screen_name": "KatjaChrist",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Franziska Ryser",
+			"screen_name": "FranziskaRyser",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Jon Pult",
+			"screen_name": "jonpult",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Marianne Binder",
+			"screen_name": "BinderMarianne",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Gabriela Suter",
+			"screen_name": "suter_gabriela",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Martina Bircher",
+			"screen_name": "_MartinaBircher",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Lilian Studer",
+			"screen_name": "LilianStuder",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Kurt Egger",
+			"screen_name": "kurtegger2",
+			"langs": ["DE"]
+		},
+		{
+			"name": "Greta Gysin",
+			"screen_name": "gretagysin",
+			"langs": ["IT"]
+		},
+		{
+			"name": "Olivier Français",
+			"screen_name": "OliFrancais",
+			"langs": ["FR"]
+		},
+		{
+			"name": "François Pointet",
+			"screen_name": "isfpo",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Sophie Michaud Gigon",
+			"screen_name": "smichaudgigon",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Porchet Léonore",
+			"screen_name": "LeonorePorchet",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Damien Cottier",
+			"screen_name": "CottierDamien",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Baptiste Hurni",
+			"screen_name": "hurnib",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Fabien Fivaz",
+			"screen_name": "ffivaz",
+			"langs": ["FR"]
+		},
+		{
+			"name": "Simone de Montmollin",
+			"screen_name": "montmollin_de",
+			"langs": ["FR"]
+		},
+		{
+			"name": "DelphineKlopfenstein",
+			"screen_name": "Klopfenstein4",
+			"langs": ["FR"]
 		}
 	]
 }
