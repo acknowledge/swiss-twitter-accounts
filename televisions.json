@@ -105,12 +105,6 @@
 			"region": "Basel"
 		},
 		{
-			"screen_name": "TV5MONDE",
-			"name": "TV5MONDE",
-			"langs": ["FR"],
-			"region": ""
-		},
-		{
 			"screen_name": "Tele1ZF",
 			"name": "Tele 1",
 			"langs": ["DE"],
