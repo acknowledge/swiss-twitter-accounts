@@ -229,12 +229,6 @@
 			"region": "Zürich"
 		},
 		{
-			"screen_name": "SOBildredaktion",
-			"name": "Südostschweiz Bild",
-			"langs": ["DE"],
-			"region": "Graubünden"
-		},
-		{
 			"screen_name": "news_aus_der_so",
 			"name": "Südostschweiz News",
 			"langs": ["DE"],

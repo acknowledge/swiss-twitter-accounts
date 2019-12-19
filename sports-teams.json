@@ -78,7 +78,7 @@
 			"region": "Neuchâtel"
 		},
 		{
-			"screen_name": "hcap1937",
+			"screen_name": "HCAP1937",
 			"name": "HC Ambrì Piotta",
 			"langs": ["IT"],
 			"region": "Tessin"
@@ -102,13 +102,13 @@
 			"region": "Graubünden"
 		},
 		{
-			"screen_name": "frgotteron",
+			"screen_name": "FrGotteron",
 			"name": "HC Fribourg-Gottéron",
 			"langs": ["FR", "DE"],
 			"region": "Fribourg"
 		},
 		{
-			"screen_name": "officialgshc",
+			"screen_name": "officialGSHC",
 			"name": "Geneve-Servette HC",
 			"langs": ["FR"],
 			"region": "Genève"
@@ -120,7 +120,7 @@
 			"region": "Vaud"
 		},
 		{
-			"screen_name": "officialhcl",
+			"screen_name": "OfficialHCL",
 			"name": "HC Lugano",
 			"langs": ["IT"],
 			"region": "Tessin"
@@ -132,7 +132,7 @@
 			"city": "Rapperswil-Jona"
 		},
 		{
-			"screen_name": "official_evz",
+			"screen_name": "official_EVZ",
 			"name": "EVZ",
 			"langs": ["DE"],
 			"region": "Zug"
@@ -150,7 +150,7 @@
 			"city": "Monthey"
 		},
 		{
-			"screen_name": "bcboncourt",
+			"screen_name": "BCBoncourt",
 			"name": "Basket-Club Boncourt",
 			"langs": ["FR"],
 			"city": "Monthey"
